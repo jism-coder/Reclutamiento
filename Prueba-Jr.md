@@ -27,6 +27,8 @@ Principalmente los siguientes aspectos:
 
 #### Requerimientos generales
 
+Si se agrega funcionalidad al sitio (en caso de contar con componentes como pestañas) y el contenido no está visible en el mockup, se puede dejar vacío.
+
 1. **HTML:** Utilizar adecuadamente un grid de 12 columnas o las que proponga el framework de UI seleccionado, para posicionar los elementos. 
 
 2. **CSS:** Utilizar algún framework (a elección) y utilizar SCSS o SASS para personalizarlo.
