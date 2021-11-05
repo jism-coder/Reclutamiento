@@ -2,7 +2,7 @@
 La siguiente es una prueba para evaluar a los postulantes a programador **Front-end**.
 
 ## INTRODUCCIÓN
-Este repositorio contiene una serie de elementos en un mockup de figma, que busca evaluar las capacidades técnicas del candidato con respecto a las principales funciones y responsabilidades que se requieren dentro del área de Desarrollo de _HirCasa_.
+Este repositorio contiene un enlace a un mockup de figma con una serie de elementos, que busca evaluar las capacidades técnicas del candidato con respecto a las principales funciones y responsabilidades que se requieren dentro del área de Desarrollo de _HirCasa_.
 
 #### ¿Qué se busca evaluar?
 Principalmente los siguientes aspectos:
@@ -23,7 +23,9 @@ Principalmente los siguientes aspectos:
 6. **Al finalizar**, para entregar su proyecto, deberán realizar un `Commit` de su proyecto, **enviar un `Pull Request` al branch con su NOMBRE**, y notificar a la siguiente dirección de correo electrónico  [desarrollo@hircasa.com](mailto:desarrollo@hircasa.com).
 
 ## EJERCICIO PRÁCTICO
-**Objetivo:** Materializar el mockup de figma del enlace proporcionado en la entrevista utilizando y personalizando algún framework UI de libre elección (ej. Bootstrap).
+**Objetivo:** Materializar el mockup de figma del enlace siguiente, utilizando y personalizando algún framework UI de libre elección (ej. Bootstrap):
+
+https://www.figma.com/file/VVhVDuTchYVc4tXfPWozx4/Online-Learning-Platform-(Community)
 
 #### Requerimientos generales
 
