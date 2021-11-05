@@ -12,15 +12,14 @@ Principalmente los siguientes aspectos:
   + Familiaridad con Frameworks y plataformas de desarrollo Web.
 
 ## IMPORTANTE
-1. Asegúrate de tener `Node.js` y `npm` instalados.
-2. Se solicita materializar el mockup utilizando la tecnología Web de su elección, se dará preferencia a los candidatos que utilicen **[Vue](https://v3.vuejs.org/)** + **Bootstrap**.
-3. Recomendamos emplear un máximo de **2 (dos) días** y enviar todo lo que puedas.
-4. Se requiere de una **cuenta de GitHub** para realizar este ejercicio.
-5. **Antes de comenzar a programar:**
+1. Se solicita materializar el mockup utilizando la tecnología Web de su elección, se dará preferencia a los candidatos que utilicen **[Vue](https://v3.vuejs.org/)** + **Bootstrap**.
+2. Recomendamos emplear un máximo de **2 (dos) días** y enviar todo lo que puedas.
+3. Se requiere de una **cuenta de GitHub** para realizar este ejercicio.
+4. **Antes de comenzar a programar:**
     * Realizar un `Fork` de este repositorio (https://github.com/HirCasaDesarrollo/Reclutamiento).
     * Clonar el fork a su máquina local  `git clone git@github.com:USERNAME/FORKED-PROJECT.git`
     * Crear un `branch` en su cuenta de GitHub utilizando su nombre completo.
-6. **Al finalizar**, para entregar su proyecto, deberán realizar un `Commit` de su proyecto, **enviar un `Pull Request` al branch con su NOMBRE**, y notificar a la siguiente dirección de correo electrónico  [desarrollo@hircasa.com](mailto:desarrollo@hircasa.com).
+5. **Al finalizar**, para entregar su proyecto, deberán realizar un `Commit` de su proyecto, **enviar un `Pull Request` al branch con su NOMBRE**, y notificar a la siguiente dirección de correo electrónico  [desarrollo@hircasa.com](mailto:desarrollo@hircasa.com).
 
 ## EJERCICIO PRÁCTICO
 **Objetivo:** Materializar el mockup de figma del enlace siguiente, utilizando y personalizando algún framework UI de libre elección (ej. Bootstrap):
