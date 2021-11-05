@@ -13,7 +13,7 @@ Principalmente los siguientes aspectos:
 
 ## IMPORTANTE
 1. Asegúrate de tener `Node.js` y `npm` instalados.
-2. Se solicita materializar el mockup utilizando la tecnología Web de su elección, se privilegiarán a los candidatos que utilicen **[Vue](https://v3.vuejs.org/)** + **Bootstrap**.
+2. Se solicita materializar el mockup utilizando la tecnología Web de su elección, se dará preferencia a los candidatos que utilicen **[Vue](https://v3.vuejs.org/)** + **Bootstrap**.
 3. Recomendamos emplear un máximo de **2 (dos) días** y enviar todo lo que puedas.
 4. Se requiere de una **cuenta de GitHub** para realizar este ejercicio.
 5. **Antes de comenzar a programar:**
@@ -29,7 +29,7 @@ https://www.figma.com/file/VVhVDuTchYVc4tXfPWozx4/Online-Learning-Platform-(Comm
 
 #### Requerimientos generales
 
-Si se agrega funcionalidad al sitio (en caso de contar con componentes como pestañas) y el contenido no está visible en el mockup, se puede dejar vacío.
+En el mockup hay pestañas, si se agrega la funcionalidad a las pestañas, se puede dejar vacío o agregar el contenido que se prefiera.
 
 1. **HTML:** Utilizar adecuadamente un grid de 12 columnas o las que proponga el framework de UI seleccionado, para posicionar los elementos. 
 
