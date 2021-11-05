@@ -19,7 +19,7 @@ Principalmente los siguientes aspectos:
     * Realizar un `Fork` de este repositorio (https://github.com/HirCasaDesarrollo/Reclutamiento).
     * Clonar el fork a su máquina local  `git clone git@github.com:USERNAME/FORKED-PROJECT.git`
     * Crear un `branch` en su cuenta de GitHub utilizando su nombre completo.
-5. **Al finalizar**, para entregar su proyecto, deberán realizar un `Commit` de su proyecto, **enviar un `Pull Request` al branch con su NOMBRE**, y notificar a la siguiente dirección de correo electrónico  [desarrollo@hircasa.com](mailto:desarrollo@hircasa.com).
+5. **Al finalizar**, para entregar su proyecto, deberán realizar un `Commit` de su proyecto, **enviar un `Pull Request` al branch con su NOMBRE**, y notificar a la siguiente dirección de correo electrónico  [desarrollo@hircasa.com](mailto:licenciasdev@hircasa.com).
 
 ## EJERCICIO PRÁCTICO
 **Objetivo:** Materializar el mockup de figma del enlace siguiente, utilizando y personalizando algún framework UI de libre elección (ej. Bootstrap):
